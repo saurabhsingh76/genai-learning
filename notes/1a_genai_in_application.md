@@ -1,3 +1,4 @@
+[Generative AI: A Self-Study Roadmap (KDnuggets)](https://www.kdnuggets.com/generative-ai-a-self-study-roadmap)
 # Generative AI Practical Learning Roadmap
 
 - Build expertise in generative AI systems, focusing on **practical application development** rather than training models from scratch.
