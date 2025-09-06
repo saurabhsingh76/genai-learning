@@ -1,6 +1,11 @@
 # Generative AI Practical Learning Roadmap
 
-Build expertise in generative AI systems, focusing on **practical application development** rather than training models from scratch.
+- Build expertise in generative AI systems, focusing on **practical application development** rather than training models from scratch.
+  - Instead of collecting labeled datasets and training models, you work with foundation models that already understand language, images, or code.
+  - Instead of optimizing for accuracy metrics, you evaluate creativity, coherence, and usefulness.<br>(👉 Coherence = how well the AI “sticks together” its output so that it is meaningful and contextually aligned.)
+  - Instead of deploying deterministic systems, you build applications that produce different outputs each time they run.<br>
+
+Foundation models — large neural networks trained on vast datasets (serve as the building blocks for generative AI applications)
 
 ## Core Philosophy
 
