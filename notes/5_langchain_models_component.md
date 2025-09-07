@@ -1,5 +1,7 @@
 # LangChain Models Component - Complete Tutorial
-<img src="../images/03_langchain_model_component.jpg" alt="langchain model component diagram" width="400" height="400"/>
+<p align="center">
+    <img src="../images/03_langchain_model_component.jpg" alt="langchain model component diagram" width="400" height="400"/>
+</p>
 
 ## Introduction
 This README covers the **Models Component** of LangChain with practical code implementations. The Models component is the **core interface** through which you interact with AI models in LangChain, providing a standardized way to work with different AI model providers.
