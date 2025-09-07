@@ -2,7 +2,10 @@
 
 ## Introduction
 This guide covers the **6 core components** of LangChain framework that make building LLM-powered applications efficient and scalable. Understanding these components is crucial as they form the foundation of all LLM application development using LangChain.
-![langchain components diagram](../images/02_langchain_components.jpg)
+
+<p align="center">
+  <img src="../images/02_langchain_components.jpg" alt="langchain components diagram" width="500" height="500"/>
+</p>
 
 ## The 6 Core Components
 
