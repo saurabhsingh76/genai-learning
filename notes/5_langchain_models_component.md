@@ -70,11 +70,11 @@ cd langchain-models
 
 2. **Create Virtual Environment**
 ```bash
-python -m venv venv
+python -m venv langchain_env
 # Windows
-venv\Scripts\activate
+langchain_env\Scripts\activate
 # macOS/Linux  
-source venv/bin/activate
+source langchain_env/bin/activate
 ```
 
 3. **Install Dependencies**
