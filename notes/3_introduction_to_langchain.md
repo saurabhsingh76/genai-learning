@@ -23,6 +23,7 @@ Back in 2014, the concept was to build an application where users could:
 This type of application would be incredibly useful as it combines reading with interactive questioning.
 
 ### High-Level System Architecture
+![High level system diagram](../images/01_langchain_intro_img1.jpg)
 
 #### Basic Workflow:
 1. **Document Upload**: User uploads PDF → Store in database (e.g., AWS S3)
@@ -44,6 +45,7 @@ This type of application would be incredibly useful as it combines reading with 
 - More efficient and meaningful results
 
 ### Detailed System Design
+![Low level system diagram](../images/01_langchain_intro_img2.jpg)
 
 #### Step-by-Step Process:
 
