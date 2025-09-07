@@ -88,7 +88,7 @@ langchain-huggingface
 python-dotenv
 ```
 
-Install packages:
+Install packages in virtual env:
 ```bash
 pip install -r requirements.txt
 ```
